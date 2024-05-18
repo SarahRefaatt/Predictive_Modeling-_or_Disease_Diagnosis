@@ -1,0 +1,2 @@
+# Predictive_Modeling-_or_Disease_Diagnosis
+arahRefaatt/Predictive_Modeling-_or_Disease_Diagnosis using logistics and svm models
